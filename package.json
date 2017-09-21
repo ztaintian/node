@@ -10,6 +10,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@alicloud/sms-sdk": "^1.0.2",
+    "alidayu-node": "^1.0.3",
     "nodemailer": "^4.1.0",
     "shelljs": "^0.7.8"
   }
